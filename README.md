@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash kumar sharma</h1>
 <h3 align="center">Front-end web developer | Crafting responsive websites | HTML, CSS, JavaScript, Tailwind, Reactjs.</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **Backend frameworks like Expressjs and MongoDB**
+- 🌱 I’m currently learning **Backend frameworks like-<br>
+     . . . . .Expressjs and MongoDB**
 
 - 💬 Ask me about **Html, Css, Tailwind, Javascript, Reactjs, Python, C++,**
 
